@@ -16,11 +16,12 @@ using UnityEngine.UI;
 using VRC.UI.Core.Styles;
 using UIExpansionKit.API;
 using VRC.UI.Elements;
-using PlagueButtonAPI;
-using PlagueButtonAPI.Misc;
-using PlagueButtonAPI.Controls;
-using PlagueButtonAPI.Controls.Grouping;
-using PlagueButtonAPI.Pages;
+// What you looking for, MistressPlague? :)
+// using PlagueButtonAPI;
+// using PlagueButtonAPI.Misc;
+// using PlagueButtonAPI.Controls;
+// using PlagueButtonAPI.Controls.Grouping;
+// using PlagueButtonAPI.Pages;
 using Random = System.Random;
 
 namespace VeinClient 
